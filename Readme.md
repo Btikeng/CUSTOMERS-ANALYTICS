@@ -3,7 +3,7 @@
 
 Customer analysis is a process that involves examining data to better understand customer behaviors and purchase decisions. A customer analysis is an important component of a company's business plan since the results can be used to guide product and marketing decisions to better meet customer needs.
 
-Increase response rates, customer loyalty and ROI by contacting the right customers with highly relevant offers and messages. Reduce campaign costs by targeting those customers most likely to respond.
+The goal is to help the company to Increase response rates, customer loyalty and ROI by contacting the right customers with highly relevant offers and messages. Reduce campaign costs by targeting those customers most likely to respond.
 
 A customer analysis (or customer profile) is a critical section of a company's business plan or marketing plan. It identifies target customers, ascertains the needs of these customers, and then specifies how the product satisfies these needs.
 
