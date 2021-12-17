@@ -22,3 +22,7 @@ Customer analytics can help you improve your business in the following areas:
 •	Customer satisfaction analysis.
 •	Customer lifetime value analytics.
 •	Customer segmentation analytics
+
+
+
+![image](https://user-images.githubusercontent.com/78287535/146487640-937102b2-8c56-4c47-86f6-ce36a4890776.png)
