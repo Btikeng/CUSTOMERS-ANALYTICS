@@ -25,4 +25,5 @@ Customer analytics can help you improve your business in the following areas:
 
 
 
-![image](https://user-images.githubusercontent.com/78287535/146487640-937102b2-8c56-4c47-86f6-ce36a4890776.png)
+![image](https://user-images.githubusercontent.com/78287535/146990896-bb08f823-64a9-4df2-9aa4-8eaa84757dd3.png)
+
